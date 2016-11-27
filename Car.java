@@ -2,7 +2,7 @@ Class Car{
 
 static void main(){
 
-intx =0;
+int x =0;
 
 }
 }
